@@ -1,1 +1,1 @@
-# Coursera-IntroToTensorFlow
+# Coursera-TensorFlow
